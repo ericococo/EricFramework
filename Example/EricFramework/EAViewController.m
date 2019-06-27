@@ -7,6 +7,7 @@
 //
 
 #import "EAViewController.h"
+#import "EATest.h"
 
 @interface EAViewController ()
 
@@ -18,6 +19,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+   
+    
+    EATest * test = [[EATest alloc]init];
+    [test logg];
+    
 }
 
 - (void)didReceiveMemoryWarning
