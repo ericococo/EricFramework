@@ -1,0 +1,6 @@
+framework module EricFramework {
+  umbrella header "EricFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

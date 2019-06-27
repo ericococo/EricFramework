@@ -1,0 +1,6 @@
+framework module Pods_EricFramework_Example {
+  umbrella header "Pods-EricFramework_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
