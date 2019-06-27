@@ -1,3 +1,4 @@
+
 # EricFramework
 
 [![CI Status](https://img.shields.io/travis/ericococo/EricFramework.svg?style=flat)](https://travis-ci.org/ericococo/EricFramework)
@@ -27,3 +28,4 @@ ericococo, ada_eric@163.com
 ## License
 
 EricFramework is available under the MIT license. See the LICENSE file for more info.
+
